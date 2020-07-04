@@ -1,1 +1,1 @@
-# SA-CS
+# [SA-CS](https://github.com/rubyra1n/SA-CS/releases)
